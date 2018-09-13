@@ -1,3 +1,3 @@
 # dockerfilesample
-# 
-# This is the sample of a docker file
+
+This is the sample/template of a docker file
